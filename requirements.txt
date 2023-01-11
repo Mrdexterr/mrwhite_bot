@@ -1,0 +1,7 @@
+pyrogram
+pymongo
+motor
+marshmallow
+umongo
+asyncio
+python-dotenv
